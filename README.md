@@ -9,7 +9,7 @@ This is a starter template for Next.js projects, providing a solid foundation to
 - [Tailwind CSS](https://tailwindcss.com): A utility-first CSS framework for rapidly building custom designs
 - [ESLint](https://eslint.org): A pluggable linter tool for JavaScript/TypeScript
 - [Prettier](https://prettier.io): An opinionated code formatter
-- [TypeScript](https://www.typescriptlang.org): A typed superset of JavaScript that compiles to plain JavaScript.
+- [TypeScript](https://www.typescriptlang.org): A typed superset of JavaScript
 
 ## Features
 
@@ -27,20 +27,24 @@ This is a starter template for Next.js projects, providing a solid foundation to
 
 2. Install dependencies:
 
-```
-npm install
-```
+   ```
+   npm install
+   ```
 
-or
+   or
 
-```
-pnpm install
-```
+   ```
+   pnpm install
+   ```
 
 3. Run the application:
 
-```
-npm run dev
-```
+   ```
+   npm run dev
+   ```
 
-Then visit `http://localhost:3000` to view your project.
+   Then visit `http://localhost:3000` to view your project.
+
+## License
+
+This project is licensed under the MIT License.
