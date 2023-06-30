@@ -29,11 +29,13 @@ This is a starter template for Next.js projects, providing a solid foundation to
 
 2. Install dependencies:
 
+   npm:
+
    ```
    npm install
    ```
 
-   or
+   pnpm:
 
    ```
    pnpm install
